@@ -1,0 +1,66 @@
+{
+    "Language": [
+      {
+        "id": 1,
+        "title": "HTML",
+        "slug": "html",
+        "image": "/assests/skill/html.svg" 
+      },
+      {
+        "id": 2,
+        "title": "Css",
+        "slug": "css",
+        "image": "/assests/skill/css.svg" 
+      },
+      {
+        "id": 3,
+        "title": "JavaScript",
+        "slug": "javaScript",
+        "image": "/assests/skill/javascript.svg" 
+      },
+      {
+        "id": 4,
+        "title": "Java",
+        "slug": "java",
+        "image": "/assests/skill/java.svg" 
+      }
+   
+    ],
+
+    "Libraries": [
+      {
+        "id": 20,
+        "title": "React",
+        "slug": "react",
+        "image": "/assests/skill/react.svg" 
+      }, {
+        "id": 21,
+        "title": "Next.js",
+        "slug": "nextjs",
+        "image": "/assests/skill/next.svg" 
+      }, {
+        "id": 22,
+        "title": "Tailwind Css",
+        "slug": "tailwind",
+        "image": "/assests/skill/tailwind.svg" 
+      }, {
+        "id": 23,
+        "title": "Bootstrap",
+        "slug": "bootstrap",
+        "image": "/assests/skill/bootstrap.svg" 
+      }
+   
+    ],
+    
+    "Tools": [
+        {
+          "id": 41,
+          "title": "Github",
+          "slug": "github",
+          "image": "/assests/skill/github.svg" 
+        }
+     
+      ]
+
+  }
+  

@@ -1,0 +1,43 @@
+{
+    "project": [
+      {
+        "id": 1,
+        "title": "YOUKNOWTALES",
+        "slug": "youknowtales",
+        "description": "Developed a storytelling blog website using React and Appwrite as a backend-as-a-service ",
+
+        "feature":["Employed Appwrite as a backend-as-a-service solution for data storage and management.","Implemented React Hook Form for seamless form handling.","Integrated React Router DOM for smooth navigation between pages.","Incorporated dynamic filtering functionalities for improved content exploration.","used tinymce react for text editor"],
+        "Visualtext":"Enhanced UI with engaging animations to improve user interaction and visual appeal.",
+        "github":"https://github.com/Nickop21/YNKNOWTALES",
+        "website":"https://ynknowtales.vercel.app/",
+        "tech":["React" ,"Tailwind css","TinyMCE","Reactform","Git"],
+        "image": "/assests/project/youkowtales.png" 
+      },
+      {
+        "id": 2,
+        "title": "Talkix",
+        "slug": "Talkix",
+        "description": "Developed a dynamic web application resembling Netflix, utilizing the IMDb API to fetch comprehensive movie data. This project serves as a showcase of advanced frontend development skills.",
+        "feature":["Implemented filtering and searching functionalities.","Used Redux Toolkit for efficient state management","Styled with SCSS for polished and modern UI.","Employed React Router DOM for seamless navigation."],
+        "Visualtext":"Designed with OWSOM UI components to ensure a visually impressive and user-friendly experience, showcasing skills in UI/UX design and frontend development.",
+        "github":"https://github.com/Nickop21/Movinx",
+        "website":"https://talkix.vercel.app/",
+        "tech":["React" ,"Scss" ,"Redux" ,"Git"],
+        "image": "/assests/project/talkix.png" 
+      },
+      {
+        "id": 3,
+        "title": "Agenda",
+        "slug": "agenda",
+        "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+        "feature":["Utilized Redux for centralized state management, allowing seamless data updates and persistence.","Implemented functionality to sync data between Redux store and local storage, ensuring data integrity and persistence across sessions.","ntegrated search and filtering functionalities to allow users to easily find and manage tasks based on various criteria.","Implemented features for tracking task completion status, providing users with clear feedback on task progress."],
+        "Visualtext":"Designed with a visually appealing user interface, emphasizing usability and aesthetic appeal.",
+        "github":"https://github.com/Nickop21/The-agenda",
+        "website":"https://the-agenda.vercel.app/",
+       "tech":["React" ,"css" ,"Redux" ,"Git"],
+        "image": "/assests/project/agenda.png" 
+      }
+     
+    ]
+  }
+ 
